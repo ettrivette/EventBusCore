@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EventBus
+/EventBus/bin/Debug/net5.0
+/EventBus/obj
+/EventBus.Abstractions/bin/Debug/netstandard2.0
+/EventBus.Abstractions/obj
+/EventBus.RabbitMq/obj
+/EventBus.RabbitMq/bin/Debug/netstandard2.0
+/EventBusAPI.Infrastructure/bin/Debug/netstandard2.1
+/EventBusAPI.Infrastructure/obj
+/EventBusReceiver/bin/Debug/net5.0
+/EventBusReceiver/obj
