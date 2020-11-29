@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QpuqHDmHc2WW2bUWhxbDi9/nzzGo4TkxejbvkaiyDz04/wO8F4S3YkPu3Xo31SP4lqjy2UyQwWYm4EMS6SPMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ettri\\source\\repos\\EventBus\\EventBus.Core\\EventBus.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ettri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ettri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

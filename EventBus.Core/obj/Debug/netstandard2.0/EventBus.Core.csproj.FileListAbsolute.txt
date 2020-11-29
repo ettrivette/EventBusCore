@@ -1,0 +1,9 @@
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\bin\Debug\netstandard2.0\EventBus.Core.deps.json
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\bin\Debug\netstandard2.0\EventBus.Core.dll
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\bin\Debug\netstandard2.0\EventBus.Core.pdb
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\obj\Debug\netstandard2.0\EventBus.Core.csprojAssemblyReference.cache
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\obj\Debug\netstandard2.0\EventBus.Core.AssemblyInfoInputs.cache
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\obj\Debug\netstandard2.0\EventBus.Core.AssemblyInfo.cs
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\obj\Debug\netstandard2.0\EventBus.Core.csproj.CoreCompileInputs.cache
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\obj\Debug\netstandard2.0\EventBus.Core.dll
+C:\Users\ettri\source\repos\EventBus\EventBus.Core\obj\Debug\netstandard2.0\EventBus.Core.pdb

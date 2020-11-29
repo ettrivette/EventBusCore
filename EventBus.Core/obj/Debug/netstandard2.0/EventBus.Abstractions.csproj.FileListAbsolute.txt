@@ -1,0 +1,9 @@
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\bin\Debug\netstandard2.0\EventBus.Abstractions.deps.json
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\bin\Debug\netstandard2.0\EventBus.Abstractions.dll
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\bin\Debug\netstandard2.0\EventBus.Abstractions.pdb
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\obj\Debug\netstandard2.0\EventBus.Abstractions.AssemblyInfoInputs.cache
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\obj\Debug\netstandard2.0\EventBus.Abstractions.AssemblyInfo.cs
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\obj\Debug\netstandard2.0\EventBus.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\obj\Debug\netstandard2.0\EventBus.Abstractions.dll
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\obj\Debug\netstandard2.0\EventBus.Abstractions.pdb
+C:\Users\ettri\source\repos\EventBus\EventBus.Abstractions\obj\Debug\netstandard2.0\EventBus.Abstractions.csprojAssemblyReference.cache

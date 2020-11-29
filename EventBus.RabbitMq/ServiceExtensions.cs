@@ -4,7 +4,6 @@ using EventBus.Abstractions.Subscriptions;
 using Microsoft.Extensions.DependencyInjection;
 using RabbitMQ.Client;
 using System;
-using System.Collections.Generic;
 
 namespace EventBus.RabbitMq
 {
@@ -16,7 +15,8 @@ namespace EventBus.RabbitMq
             RabbitMQConfig config = new RabbitMQConfig()
             {
                 ExchangeName = "Shared",
-                QueueName = "EventQueue"
+                QueueName = "EventQueue",
+                EnableAsync = true
             };
 
             configuration(config);
@@ -29,11 +29,8 @@ namespace EventBus.RabbitMq
             {
                 return new ConnectionFactory() 
                 { 
-                    HostName = config.ConnectionString,
-                    UserName = ConnectionFactory.DefaultUser,
-                    Password = ConnectionFactory.DefaultPass,
-                    Port = AmqpTcpEndpoint.UseDefaultPort,
-                    DispatchConsumersAsync = true
+                    Uri = new Uri(config.ConnectionString),
+                    DispatchConsumersAsync = config.EnableAsync
                 };
             });
 
@@ -58,6 +55,8 @@ namespace EventBus.RabbitMq
             public string ExchangeName { get; set; }
 
             public string QueueName { get; set; }
+
+            public bool EnableAsync { get; set; }
         }
     }
 }

@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EventBus.Abstractions\EventBus.Abstractions.csproj" />
+    <ProjectReference Include="..\EventBus.Core\EventBus.Core.csproj" />
   </ItemGroup>
 
 </Project>
